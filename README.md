@@ -11,6 +11,5 @@ This projects evaluates employees' job satisfaction vis-a-vis other variables th
  
  - The first page provides an overview of all the four dashboards I created. The second page includes the demographic insights, the third page focuses on turnover analysis and the final page is dedicated to employee wellness.
 
- - Insights
-
+   
  - Ref: Attrition-Definition. Investopedia.com
