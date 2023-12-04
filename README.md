@@ -1,7 +1,7 @@
 # HR-Attrition-Analysis
 This projects evaluates employees' job satisfaction vis-a-vis other variables that impacts employee turnover.
 
-📊 I conducted a diagonostic analysis of the organisation's human resources management data.
+📊 I conducted a diagnostic analysis of the organisation's human resources management data.
 
 📈 The project evaluates employees' job satisfaction vis-a-vis other variables that impact employee turnover. I also took a critical look at the factors responsible for employee attrition in the firm.
 
